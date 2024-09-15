@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1726330293,
+    "date": "2024-09-14T17:11:33.354490957+01:00",
+    "description": "asdf",
+    "amount": 23
+  },
+  {
+    "id": 1726330379,
+    "date": "2024-09-14T17:12:59.072736837+01:00",
+    "description": "Lunch",
+    "amount": 34,
+    "category": "food"
+  },
+  {
+    "id": 1726403483,
+    "date": "2024-09-15T13:31:23.856834251+01:00",
+    "description": "Breakfast",
+    "amount": 20,
+    "category": "food"
+  },
+  {
+    "id": 1726414611,
+    "date": "2024-09-15T16:36:51.495527757+01:00",
+    "description": "phone23",
+    "amount": 3423,
+    "category": "tech"
+  }
+]
