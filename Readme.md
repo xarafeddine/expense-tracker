@@ -9,9 +9,8 @@ This is a simple command-line expense application written in Go. It allows you t
 - Users can delete an expense.
 - Users can view all expenses.
 - Users can view a summary of all expenses.
-- Users can view a summary of expenses for a specific month (of current year).
+- Users can view a summary of expenses for a specific month (for the current year).
 - users can filter expenses by category.
-- users can set a budget for each month and show a warning when the user exceeds the budget.
 - users can export expenses to a CSV file.
 
 ## Usage
